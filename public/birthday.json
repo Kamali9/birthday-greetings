@@ -1,0 +1,113 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Kamali",
+            "dob": "04/10/1996",
+             "phone": "7013342557"
+        },
+        {
+            "id": 2,
+            "name": "Man",
+            "dob": "01/11/1996",
+            "phone": ""
+        },
+        {
+            "id": 3,
+            "name": "Thulasi",
+            "dob": "18/01/2001",
+            "phone": ""
+
+        },
+        {
+            "id": 4,
+            "name": "Manasa",
+            "dob": "27/01/2005",
+            "phone": ""
+        },
+        {
+            "id": 5,
+            "name": "Sudheeksh Aadhyan",
+            "dob": "02/11/2014",
+            "phone": ""
+        },
+        {
+            "id": 6,
+            "name": "Lishan",
+            "dob": "11/11/2019",
+            "phone": ""
+        },
+        {
+            "id": 7,
+            "name": "Lakshya",
+            "dob": "04/07/2021",
+            "phone": ""
+        },
+        {
+            "id": 8,
+            "name": "Parnika",
+            "dob": "20/01/2024",
+            "phone": ""
+        },
+        {
+            "id": 9,
+            "name": "Balaji",
+            "dob": "17/04/2009",
+            "phone": ""
+        },
+        {
+            "id": 10,
+            "name": "Samatha G",
+            "dob": "30/05/2001",
+            "phone": ""
+        },
+        {
+            "id": 11,
+            "name": "Prajna Y",
+            "dob": "30/05/2001",
+            "phone": ""
+        },
+        {
+            "id": 12,
+            "name": "Thualsi Ram S",
+            "dob": "30/11/2007",
+            "phone": ""
+        },
+        {
+            "id": 13,
+            "name": "Jayanthi",
+            "dob": "08/12/2002",
+            "phone": ""
+        },
+        {
+            "id": 14,
+            "name": "Jaaswika",
+            "dob": "13/09/2024",
+            "phone": ""
+        },
+        {
+            "id": 15,
+            "name": "Today",
+            "dob": "23/11/2025",
+            "phone": ""
+        },
+        {
+            "id": 16,
+            "name": "Kamali",
+            "dob": "25/11/2025",
+            "phone": ""
+        },
+        {
+            "id": 17,
+            "name": "Sai Jithendra Yamala",
+            "dob": "06/08/1998",
+            "phone": ""
+        },
+         {
+            "id": 18,
+            "name": "Naveen Perumandla",
+            "dob": "30/05/1998",
+            "phone": ""
+        }
+    ]
+}
